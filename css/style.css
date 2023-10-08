@@ -802,6 +802,8 @@ body .project-and-case .container .project-and-cases article a {
 html .project-and-case .container .project-and-cases article a i,
 body .project-and-case .container .project-and-cases article a i {
   transform: rotate(-45deg);
+  padding-left: 10px;
+  padding-bottom: 10px;
 }
 html .project-and-case .container .a-link a,
 body .project-and-case .container .a-link a {
